@@ -1,6 +1,6 @@
 {
   "name": "smart-arrays",
-  "version": "0.9.9",
+  "version": "1.0.0",
   "description": "A collection of Array utilities with no dependencies",
   "author": "GitBook Team <contact@gitbook.com>",
   "license": "Apache-2.0",
